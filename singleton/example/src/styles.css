@@ -1,0 +1,14 @@
+button {
+  color: white;
+  padding: 10px 15px;
+  border: none;
+  border-radius: 15px;
+}
+
+#blue {
+  background-color: blue;
+}
+
+#red {
+  background-color: red;
+}
